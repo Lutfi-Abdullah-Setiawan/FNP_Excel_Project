@@ -32,22 +32,22 @@ For my deep dive into the data analyst FNP, I harnessed the power of several key
 ### 1. Transforming Dataset Using Power Query
 In this project, I processed and analyzed the FNP dataset entirely using Microsoft Excel. My workflow began with importing raw data and cleaning it using Power Query, ensuring consistency in formats, handling missing values, and preparing the dataset for analysis.
 
-![power_query](FNP_Excel_Project/Assets/power_query.png) 
+![power_query](Assets/power_query.png) 
 
 
 ### 2. Build Data Modeling and Analysis Using Power Pivot and Pivot Tables
 Once the data was structured, I used Power Pivot to Manage the data model and build a connection that i can analyzing all the data in the pivot tables letter. 
 
-![power_pivot](FNP_Excel_Project/Assets/power_pivot.png) 
+![power_pivot](Assets/power_pivot.png) 
 
 After that, I used Pivot Tables to explore the data from multiple perspectives, enabling me to perform aggregations, filtering, and comparisons efficiently. Each analysis step was carefully designed to answer specific business questions aligned with the objectives of this project.
 
-![pivot_tables](FNP_Excel_Project/Assets/pivot_table.png) 
+![pivot_tables](Assets/pivot_table.png) 
 
 ### 3. Build an Interactive Dashboard
 This structured Excel-based approach enabled me to transform raw data into meaningful insights and present them clearly through tables and visualizations.:
 
-![Dashboard](FNP_Excel_Project/Assets/Dashboard.png) 
+![Dashboard](Assets/Dashboard.png) 
 ### Insight from Dashboard:
 **1. Overall Performance** :
 - The business recorded 1,000 total orders with a total revenue of ₹3,520,984, indicating strong overall sales performance.
@@ -102,4 +102,5 @@ Through this deep dive into the FNP data set, several key insights emerged that 
 **Final Thought :**
 
 This project demonstrates how Microsoft Excel can be effectively used as a powerful data analysis tool when combined with structured thinking and clear business objectives. By utilizing Power Query, Pivot Tables, and data visualizations, I was able to transform raw grocery store data into meaningful insights that support data-driven decision-making. Beyond technical skills, this project strengthened my analytical mindset—learning how to ask the right questions, interpret patterns, and communicate insights clearly. This experience serves as a solid foundation for tackling more complex data analysis projects in the future.
+
 
